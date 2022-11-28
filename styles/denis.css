@@ -1,0 +1,107 @@
+.navconteiner {
+  width: 1440px;
+  height: 80px;
+}
+nav {
+  width: 496px;
+  line-height: 50px;
+  margin-left: 472px;
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  color: #070707;
+  font-size: 18px;
+  font-weight: 400;
+}
+.menu {
+  margin-right: 40px;
+}
+.firstsection {
+  width: 970px;
+  padding-left: 235px;
+  height: 467px;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 65.37px;
+}
+.denisphoto {
+  width: 970px;
+  height: 387px;
+}
+.secondsection {
+  width: 520px;
+  height: 360px;
+  padding-left: 460px;
+  padding-right: 460px;
+  background: #f6f6f6;
+  font-size: 18px;
+  font-weight: 400px;
+  text-align: center;
+}
+.about {
+  font-size: 34px;
+  font-weight: 700px;
+  line-height: 46.3px;
+}
+.thirdsection {
+  width: 970px;
+  height: 564px;
+  padding-top: 100px;
+  padding-left: 235px;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.ps {
+  display: inline-block;
+  padding-right: 60px;
+}
+.fourthsection {
+  width: 1440px;
+  height: 2268px;
+  background-color: #f6f6f6;
+  padding-top: 100px;
+  text-align: center;
+}
+.portfoliotext {
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 24.51px;
+
+  text-align: center;
+}
+.fifthsection {
+  width: 1440px;
+  height: 600px;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+.btn {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  width: 180px;
+  height: 44px;
+  border-radius: 22px;
+  background-color: #070707;
+  align-items: center;
+  padding: 0px 16px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+.likeme {
+  font-size: 14px;
+  font-weight: 400;
+
+  line-height: 19px;
+  text-align: center;
+
+  color: #828282;
+}
